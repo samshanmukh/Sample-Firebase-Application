@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "staging": "festive-vim-193813"
+  }
+}
