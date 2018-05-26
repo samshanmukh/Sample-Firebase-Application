@@ -1,5 +1,6 @@
 {
   "projects": {
-    "staging": "festive-vim-193813"
+    "staging": "festive-vim-193813",
+    "default": "festive-vim-193813"
   }
 }
